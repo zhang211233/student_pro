@@ -1,7 +1,7 @@
 package com.student.model;
 
 public class StudentModel {
-	private int id;
+	private int id; //唯一ID
 	private int sex;
 	private String username;
 	private String useremail;
